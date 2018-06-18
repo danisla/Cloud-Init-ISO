@@ -1,2 +1,2 @@
-instance-id: cloud-host-0
-local-hostname: cloudhost
+instance-id: k8s-debian-0
+local-hostname: k8s
